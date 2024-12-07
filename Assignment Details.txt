@@ -1,0 +1,19 @@
+Assignment Details:
+
+- Objective: Build a Market Research Agent specialized in competitor analysis, with a user-friendly interface.
+- Technologies to Use: Our tech stack primarily includes FastAPI, PostgreSQL, AsyncIO, Pydantic, and integration with AI technologies such as OpenAI and Langchain. While you're encouraged to utilize these frameworks, we're interested in seeing your proficiency in writing original code and your innovative use of AI.
+- Functionality: The app should allow users to query competitive intelligence about businesses in a specified sector, returning insights and data points relevant to opposition research.
+- Deadline: Please submit your project by Wednesday, 4rth December 2024, EOD EST time zone. 
+
+Project Expectations:
+
+- Demonstrate a simple clean and intuitive UI for user interactions.
+- Implement backend functionalities using FastAPI, AsyncIO, and Pydantic (Or similar)
+- Integrate PostgreSQL for data storage, emphasizing data retrieval and management.(Or similar)
+- Utilize AI technologies, primarily focusing on generating actionable competitor insights.
+- Showcase your code's efficiency, scalability, and your ability to integrate AI capabilities meaningfully.
+
+Submission Guidelines:
+
+- Provide a GitHub repository link containing your complete project code.
+- Include a README file with setup instructions and a brief overview of the app's functionalities.
