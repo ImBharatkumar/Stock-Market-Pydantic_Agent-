@@ -94,6 +94,11 @@ The application will be available at `http://localhost:8000`
   - `id`: Competitor database ID
 - **Response**: Detailed competitor information
 
+### OR
+
+- run cli command `uvicorn app:app --reload`
+- route to `http://127.0.0.1:8000/docs` #u will get interactive FastAPI dashboard for querying and errors.
+
 ## Technology Stack
 
 - **Backend**: FastAPI
