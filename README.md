@@ -7,6 +7,20 @@
 
 This project is an AI-powered stock market research tool that leverages FastAPI, SQLAlchemy, and an AI agent to fetch and analyze stock market information. The application allows users to retrieve real-time stock prices, company information, and save competitor data to a PostgreSQL database.
 
+### Project Structure
+
+app
+├── __init__.py
+├── app.py             # Main FastAPI application
+├── database.py        # Database configuration
+└── models.py          # SQLAlchemy models and Pydantic schemas
+├── requirements.txt   # Project dependencies
+├── .env               # Environment variables (not tracked in version control)
+├── .gitignore         # Git ignore file
+├── README.md          # Project documentation
+│
+└── venv/              # Virtual environment (not tracked in version control)
+
 ## Features
 
 - Fetch real-time stock prices using Yfinance
