@@ -1,4 +1,7 @@
 # AI Stock Market Research Agent
+![Screenshot 2024-12-07 154618](https://github.com/user-attachments/assets/90eebb01-a8b7-45a5-80f9-08ad7cb4e375)
+![Screenshot 2024-12-07 154714](https://github.com/user-attachments/assets/b6a9df1a-7fbd-4805-9812-837091d9be3d)
+![Screenshot 2024-12-07 154750](https://github.com/user-attachments/assets/12b44e98-1f5c-474f-a01b-0ec03d572a6f)
 
 ## Project Overview
 
